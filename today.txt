@@ -1,0 +1,73 @@
+Asteroid approach today..................
+Date: 2019-10-22
+
+Asteroid id: 3879255
+Asteroid Name: (2019 UG1)
+Estimated Diameter: 31.658322704099998 meters
+Close Approach Date & Time: 2019-Oct-22 00:44
+Velocity: 32126.0661309433 km/h
+Distance to Earth: 2182959.465530636 km
+--------------------
+Asteroid id: 3388081
+Asteroid Name: (2007 TL23)
+Estimated Diameter: 295.4526581957 meters
+Close Approach Date & Time: 2019-Oct-22 16:04
+Velocity: 142445.9646163145 km/h
+Distance to Earth: 67722343.908671487 km
+--------------------
+Asteroid id: 3879254
+Asteroid Name: (2019 UF1)
+Estimated Diameter: 39.182117413 meters
+Close Approach Date & Time: 2019-Oct-22 20:44
+Velocity: 60481.1447768077 km/h
+Distance to Earth: 2484601.684217255 km
+--------------------
+Asteroid id: 3772996
+Asteroid Name: (2017 FT101)
+Estimated Diameter: 40.78382003085 meters
+Close Approach Date & Time: 2019-Oct-22 21:42
+Velocity: 51206.3588722871 km/h
+Distance to Earth: 45192868.648544604 km
+--------------------
+Asteroid id: 3879243
+Asteroid Name: (2019 UT)
+Estimated Diameter: 14.44401403305 meters
+Close Approach Date & Time: 2019-Oct-22 07:28
+Velocity: 40444.8621213712 km/h
+Distance to Earth: 906837.215336988 km
+--------------------
+Asteroid id: 3065518
+Asteroid Name: (2000 UY33)
+Estimated Diameter: 195.20363546635002 meters
+Close Approach Date & Time: 2019-Oct-22 18:50
+Velocity: 55191.2682952865 km/h
+Distance to Earth: 62424207.212045832 km
+--------------------
+Asteroid id: 3409648
+Asteroid Name: (2008 HC2)
+Estimated Diameter: 646.3799872944501 meters
+Close Approach Date & Time: 2019-Oct-22 08:31
+Velocity: 114991.6864994788 km/h
+Distance to Earth: 54309062.468781431 km
+--------------------
+Asteroid id: 3837602
+Asteroid Name: (2019 AC3)
+Estimated Diameter: 19.5203635466 meters
+Close Approach Date & Time: 2019-Oct-22 08:41
+Velocity: 13091.0826815344 km/h
+Distance to Earth: 24985331.668744277 km
+--------------------
+Asteroid id: 3735614
+Asteroid Name: (2015 WH13)
+Estimated Diameter: 892.2527634155 meters
+Close Approach Date & Time: 2019-Oct-22 07:37
+Velocity: 66287.350195794 km/h
+Distance to Earth: 42580596.087967072 km
+--------------------
+Asteroid id: 3776272
+Asteroid Name: (2017 MN8)
+Estimated Diameter: 777.1196699725001 meters
+Close Approach Date & Time: 2019-Oct-22 22:44
+Velocity: 89499.5987499079 km/h
+Distance to Earth: 13459483.320859791 km
+--------------------

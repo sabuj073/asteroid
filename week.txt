@@ -1,0 +1,577 @@
+Asteroid approach for next 7 days...................
+From: 2019-10-23
+To: 2019-10-30
+
+Asteroid id: 3471585
+Asteroid Name: (2009 UC)
+Estimated Diameter: 26.945602679049998 meters
+Close Approach Date & Time: 2019-Oct-27 05:59
+Velocity: 59140.2686894579 km/h
+Distance to Earth: 43385743.792136672 km
+--------------------
+Asteroid id: 3733147
+Asteroid Name: (2015 VR1)
+Estimated Diameter: 355.21222306185 meters
+Close Approach Date & Time: 2019-Oct-27 07:53
+Velocity: 35583.9687950514 km/h
+Distance to Earth: 72740710.118797068 km
+--------------------
+Asteroid id: 3781023
+Asteroid Name: (2017 QW17)
+Estimated Diameter: 269.45602679105 meters
+Close Approach Date & Time: 2019-Oct-27 16:56
+Velocity: 114601.3007207782 km/h
+Distance to Earth: 63982279.335389075 km
+--------------------
+Asteroid id: 3844014
+Asteroid Name: (2019 SZ2)
+Estimated Diameter: 626.452146548 meters
+Close Approach Date & Time: 2019-Oct-27 06:06
+Velocity: 42517.2605800201 km/h
+Distance to Earth: 44047368.900525481 km
+--------------------
+Asteroid id: 2395289
+Asteroid Name: 395289 (2011 BJ2)
+Estimated Diameter: 1231.65167466715 meters
+Close Approach Date & Time: 2019-Oct-27 04:52
+Velocity: 99632.7170384112 km/h
+Distance to Earth: 18887180.748777646 km
+--------------------
+Asteroid id: 3843362
+Asteroid Name: (2019 OL1)
+Estimated Diameter: 234.9026421542 meters
+Close Approach Date & Time: 2019-Oct-27 04:32
+Velocity: 32345.4572552044 km/h
+Distance to Earth: 19273463.602256464 km
+--------------------
+Asteroid id: 3879253
+Asteroid Name: (2019 UE1)
+Estimated Diameter: 37.66065782945 meters
+Close Approach Date & Time: 2019-Oct-28 16:51
+Velocity: 24516.428098535 km/h
+Distance to Earth: 3282208.503835256 km
+--------------------
+Asteroid id: 2489486
+Asteroid Name: 489486 (2007 GS3)
+Estimated Diameter: 742.1435232752 meters
+Close Approach Date & Time: 2019-Oct-28 04:13
+Velocity: 29211.1442087718 km/h
+Distance to Earth: 22571214.247680056 km
+--------------------
+Asteroid id: 3471514
+Asteroid Name: (2009 TD8)
+Estimated Diameter: 23.4686388429 meters
+Close Approach Date & Time: 2019-Oct-28 06:42
+Velocity: 37957.7588649052 km/h
+Distance to Earth: 20736179.574896852 km
+--------------------
+Asteroid id: 3373683
+Asteroid Name: (2007 GS3)
+Estimated Diameter: 742.1435232752 meters
+--------------------
+Asteroid id: 3843616
+Asteroid Name: (2019 QF2)
+Estimated Diameter: 154.05929342635 meters
+Close Approach Date & Time: 2019-Oct-28 07:45
+Velocity: 26141.4718769656 km/h
+Distance to Earth: 9089544.096640139 km
+--------------------
+Asteroid id: 3775250
+Asteroid Name: (2017 LO1)
+Estimated Diameter: 893.486308069 meters
+--------------------
+Asteroid id: 3797857
+Asteroid Name: (2018 BF3)
+Estimated Diameter: 35.5212223062 meters
+Close Approach Date & Time: 2019-Oct-28 16:41
+Velocity: 35389.8400372073 km/h
+Distance to Earth: 36755766.385606306 km
+--------------------
+Asteroid id: 3256321
+Asteroid Name: (2004 TD10)
+Estimated Diameter: 214.0365300967 meters
+Close Approach Date & Time: 2019-Oct-28 17:28
+Velocity: 49515.2242917851 km/h
+Distance to Earth: 17191419.822991067 km
+--------------------
+Asteroid id: 3767319
+Asteroid Name: (2017 BP91)
+Estimated Diameter: 123.16516746674999 meters
+Close Approach Date & Time: 2019-Oct-28 22:15
+Velocity: 15835.1055445421 km/h
+Distance to Earth: 54481330.085845704 km
+--------------------
+Asteroid id: 3831876
+Asteroid Name: (2018 UC)
+Estimated Diameter: 37.19528593845 meters
+Close Approach Date & Time: 2019-Oct-28 23:51
+Velocity: 40587.448457326 km/h
+Distance to Earth: 7914761.448195949 km
+--------------------
+Asteroid id: 3840847
+Asteroid Name: (2019 GO3)
+Estimated Diameter: 161.39419190015 meters
+Close Approach Date & Time: 2019-Oct-28 20:16
+Velocity: 36184.073735736 km/h
+Distance to Earth: 33198300.912606746 km
+--------------------
+Asteroid id: 3787100
+Asteroid Name: (2017 UF1)
+Estimated Diameter: 26.945602679049998 meters
+Close Approach Date & Time: 2019-Oct-28 19:51
+Velocity: 90994.951892407 km/h
+Distance to Earth: 63956510.683407539 km
+--------------------
+Asteroid id: 3878582
+Asteroid Name: (2019 TR2)
+Estimated Diameter: 118.6555076394 meters
+Close Approach Date & Time: 2019-Oct-29 03:28
+Velocity: 49765.5184202017 km/h
+Distance to Earth: 7422989.686606205 km
+--------------------
+Asteroid id: 3582669
+Asteroid Name: (2011 UT91)
+Estimated Diameter: 135.04792065155002 meters
+Close Approach Date & Time: 2019-Oct-29 16:12
+Velocity: 68984.9508712378 km/h
+Distance to Earth: 36334870.728870487 km
+--------------------
+Asteroid id: 3520665
+Asteroid Name: (2010 JU34)
+Estimated Diameter: 204.4032993801 meters
+Close Approach Date & Time: 2019-Oct-29 01:07
+Velocity: 53791.8869649848 km/h
+Distance to Earth: 48795449.159028562 km
+--------------------
+Asteroid id: 3553585
+Asteroid Name: (2010 XN56)
+Estimated Diameter: 67.68429375845 meters
+Close Approach Date & Time: 2019-Oct-29 02:54
+Velocity: 51630.9170538067 km/h
+Distance to Earth: 64862587.02901792 km
+--------------------
+Asteroid id: 3557823
+Asteroid Name: (2011 CG71)
+Estimated Diameter: 170.01525911825001 meters
+--------------------
+Asteroid id: 3588062
+Asteroid Name: (2011 WP4)
+Estimated Diameter: 20.440329937999998 meters
+Close Approach Date & Time: 2019-Oct-29 19:03
+Velocity: 87540.7966686072 km/h
+Distance to Earth: 67371300.404248804 km
+--------------------
+Asteroid id: 3652983
+Asteroid Name: (2013 UD1)
+Estimated Diameter: 64.63799872945 meters
+Close Approach Date & Time: 2019-Oct-29 08:08
+Velocity: 51613.1804350915 km/h
+Distance to Earth: 27757978.740922147 km
+--------------------
+Asteroid id: 3788123
+Asteroid Name: (2017 UH8)
+Estimated Diameter: 81.374419168 meters
+Close Approach Date & Time: 2019-Oct-29 06:14
+Velocity: 60714.7031279077 km/h
+Distance to Earth: 22316463.840379825 km
+--------------------
+Asteroid id: 2482234
+Asteroid Name: 482234 (2011 CG71)
+Estimated Diameter: 170.01525911825001 meters
+Close Approach Date & Time: 2019-Oct-29 16:45
+Velocity: 20524.9924964214 km/h
+Distance to Earth: 61512603.793610857 km
+--------------------
+Asteroid id: 3722211
+Asteroid Name: (2015 MN66)
+Estimated Diameter: 537.6354557973 meters
+Close Approach Date & Time: 2019-Oct-29 17:04
+Velocity: 62458.6163523725 km/h
+Distance to Earth: 50697556.485619876 km
+--------------------
+Asteroid id: 3742056
+Asteroid Name: (2016 CD31)
+Estimated Diameter: 23.4686388429 meters
+Close Approach Date & Time: 2019-Oct-29 01:39
+Velocity: 38003.7373660753 km/h
+Distance to Earth: 61031143.394326177 km
+--------------------
+Asteroid id: 3772396
+Asteroid Name: (2017 FE65)
+Estimated Diameter: 427.0590225287 meters
+Close Approach Date & Time: 2019-Oct-29 16:15
+Velocity: 47138.2237485864 km/h
+Distance to Earth: 46809953.720771411 km
+--------------------
+Asteroid id: 3873148
+Asteroid Name: (2019 SC9)
+Estimated Diameter: 262.7168339417 meters
+Close Approach Date & Time: 2019-Oct-29 10:45
+Velocity: 27925.0156184613 km/h
+Distance to Earth: 16042800.046835437 km
+--------------------
+Asteroid id: 3879220
+Asteroid Name: (2019 UC)
+Estimated Diameter: 84.04035953294999 meters
+Close Approach Date & Time: 2019-Oct-29 01:30
+Velocity: 32181.7507475899 km/h
+Distance to Earth: 1119990.349146297 km
+--------------------
+Asteroid id: 3873160
+Asteroid Name: (2019 SU9)
+Estimated Diameter: 97.1600884943 meters
+Close Approach Date & Time: 2019-Oct-23 09:51
+Velocity: 8651.60570267 km/h
+Distance to Earth: 17248792.251712637 km
+--------------------
+Asteroid id: 3879256
+Asteroid Name: (2019 UJ1)
+Estimated Diameter: 16.93120630945 meters
+Close Approach Date & Time: 2019-Oct-23 03:33
+Velocity: 43174.3737921034 km/h
+Distance to Earth: 1735648.938894242 km
+--------------------
+Asteroid id: 3401433
+Asteroid Name: (2008 CT1)
+Estimated Diameter: 16.23633119685 meters
+Close Approach Date & Time: 2019-Oct-23 14:19
+Velocity: 37555.8112313111 km/h
+Distance to Earth: 18693925.807174481 km
+--------------------
+Asteroid id: 3693163
+Asteroid Name: (2014 TY33)
+Estimated Diameter: 245.7468171631 meters
+Close Approach Date & Time: 2019-Oct-23 06:36
+Velocity: 47154.4116884489 km/h
+Distance to Earth: 38033630.284122068 km
+--------------------
+Asteroid id: 3873197
+Asteroid Name: (2019 SB10)
+Estimated Diameter: 154.98436979505 meters
+Close Approach Date & Time: 2019-Oct-23 10:14
+Velocity: 11988.070146864 km/h
+Distance to Earth: 39505728.676133968 km
+--------------------
+Asteroid id: 3666430
+Asteroid Name: (2014 FA7)
+Estimated Diameter: 25.73285078445 meters
+Close Approach Date & Time: 2019-Oct-23 08:32
+Velocity: 34317.1121694567 km/h
+Distance to Earth: 21881845.15215487 km
+--------------------
+Asteroid id: 3873312
+Asteroid Name: (2019 SP10)
+Estimated Diameter: 154.05929342635 meters
+Close Approach Date & Time: 2019-Oct-23 07:23
+Velocity: 16274.0323301099 km/h
+Distance to Earth: 43887535.364742637 km
+--------------------
+Asteroid id: 2326291
+Asteroid Name: 326291 (1998 HM3)
+Estimated Diameter: 892.2527634155 meters
+Close Approach Date & Time: 2019-Oct-23 18:49
+Velocity: 71299.991966594 km/h
+Distance to Earth: 30263710.346367978 km
+--------------------
+Asteroid id: 3879238
+Asteroid Name: (2019 UZ)
+Estimated Diameter: 14.7600524817 meters
+Close Approach Date & Time: 2019-Oct-23 20:29
+Velocity: 34625.191858484 km/h
+Distance to Earth: 2187332.031753292 km
+--------------------
+Asteroid id: 3878599
+Asteroid Name: (2019 TV3)
+Estimated Diameter: 116.3825588758 meters
+Close Approach Date & Time: 2019-Oct-24 05:51
+Velocity: 23641.6802101609 km/h
+Distance to Earth: 28735888.842151258 km
+--------------------
+Asteroid id: 3842869
+Asteroid Name: (2019 LU4)
+Estimated Diameter: 27.52250134965 meters
+Close Approach Date & Time: 2019-Oct-24 20:25
+Velocity: 12913.7775964596 km/h
+Distance to Earth: 58217605.659236543 km
+--------------------
+Asteroid id: 3025767
+Asteroid Name: (2000 AF205)
+Estimated Diameter: 257.32850784415 meters
+--------------------
+Asteroid id: 3297628
+Asteroid Name: (2005 VK1)
+Estimated Diameter: 170.01525911825001 meters
+Close Approach Date & Time: 2019-Oct-24 21:47
+Velocity: 60103.2112868135 km/h
+Distance to Earth: 32517682.140572961 km
+--------------------
+Asteroid id: 3388353
+Asteroid Name: (2007 TC66)
+Estimated Diameter: 708.74156249165 meters
+--------------------
+Asteroid id: 3394754
+Asteroid Name: (2007 VF189)
+Estimated Diameter: 12.3165167467 meters
+Close Approach Date & Time: 2019-Oct-24 22:31
+Velocity: 83277.3939994386 km/h
+Distance to Earth: 59390663.683596225 km
+--------------------
+Asteroid id: 3616340
+Asteroid Name: (2012 VZ4)
+Estimated Diameter: 562.9734342097 meters
+Close Approach Date & Time: 2019-Oct-24 04:14
+Velocity: 80427.5904525401 km/h
+Distance to Earth: 49854978.571587991 km
+--------------------
+Asteroid id: 2476093
+Asteroid Name: 476093 (2007 TC66)
+Estimated Diameter: 708.74156249165 meters
+Close Approach Date & Time: 2019-Oct-24 04:44
+Velocity: 119342.9970587938 km/h
+Distance to Earth: 65597412.978200667 km
+--------------------
+Asteroid id: 2488490
+Asteroid Name: 488490 (2000 AF205)
+Estimated Diameter: 245.7468171631 meters
+Close Approach Date & Time: 2019-Oct-24 21:03
+Velocity: 26073.6875737023 km/h
+Distance to Earth: 31233071.602517004 km
+--------------------
+Asteroid id: 3840855
+Asteroid Name: (2019 GX3)
+Estimated Diameter: 16.892265615550002 meters
+Close Approach Date & Time: 2019-Oct-24 03:24
+Velocity: 19777.6325149094 km/h
+Distance to Earth: 24311537.506660531 km
+--------------------
+Asteroid id: 3841704
+Asteroid Name: (2019 JG1)
+Estimated Diameter: 27.0949217863 meters
+Close Approach Date & Time: 2019-Oct-24 21:55
+Velocity: 21743.0665355085 km/h
+Distance to Earth: 60792766.982530204 km
+--------------------
+Asteroid id: 3878577
+Asteroid Name: (2019 TF2)
+Estimated Diameter: 27.333037783 meters
+Close Approach Date & Time: 2019-Oct-24 15:00
+Velocity: 5441.1328242684 km/h
+Distance to Earth: 7823577.671846116 km
+--------------------
+Asteroid id: 3879225
+Asteroid Name: (2019 UD)
+Estimated Diameter: 23.0084785536 meters
+Close Approach Date & Time: 2019-Oct-24 13:05
+Velocity: 11238.0661828814 km/h
+Distance to Earth: 3301287.812260807 km
+--------------------
+Asteroid id: 3476777
+Asteroid Name: (2009 WD)
+Estimated Diameter: 468.2609066689 meters
+Close Approach Date & Time: 2019-Oct-25 13:35
+Velocity: 76197.5671869155 km/h
+Distance to Earth: 50855332.033424704 km
+--------------------
+Asteroid id: 3672459
+Asteroid Name: (2014 KG39)
+Estimated Diameter: 58.95055547555 meters
+Close Approach Date & Time: 2019-Oct-25 17:34
+Velocity: 56718.6010527247 km/h
+Distance to Earth: 62163337.952666861 km
+--------------------
+Asteroid id: 3878563
+Asteroid Name: (2019 TU1)
+Estimated Diameter: 459.07950182785 meters
+Close Approach Date & Time: 2019-Oct-25 13:04
+Velocity: 90811.5176873419 km/h
+Distance to Earth: 40549351.197578427 km
+--------------------
+Asteroid id: 3760542
+Asteroid Name: (2016 TC18)
+Estimated Diameter: 107.2723764144 meters
+Close Approach Date & Time: 2019-Oct-25 23:31
+Velocity: 50068.5118497558 km/h
+Distance to Earth: 63155295.847401091 km
+--------------------
+Asteroid id: 3878581
+Asteroid Name: (2019 TQ2)
+Estimated Diameter: 55.142684086 meters
+Close Approach Date & Time: 2019-Oct-25 11:00
+Velocity: 44489.9631262572 km/h
+Distance to Earth: 4900096.168634613 km
+--------------------
+Asteroid id: 3879233
+Asteroid Name: (2019 UQ)
+Estimated Diameter: 34.0477095675 meters
+Close Approach Date & Time: 2019-Oct-25 11:10
+Velocity: 46648.2227652677 km/h
+Distance to Earth: 1647383.697309813 km
+--------------------
+Asteroid id: 2162082
+Asteroid Name: 162082 (1998 HL1)
+Estimated Diameter: 934.3033406495999 meters
+Close Approach Date & Time: 2019-Oct-25 17:21
+Velocity: 40371.691074673 km/h
+Distance to Earth: 6216073.550324098 km
+--------------------
+Asteroid id: 3602021
+Asteroid Name: (2012 FD58)
+Estimated Diameter: 295.4526581957 meters
+Close Approach Date & Time: 2019-Oct-25 12:17
+Velocity: 47939.3471614694 km/h
+Distance to Earth: 36290194.925692196 km
+--------------------
+Asteroid id: 3617706
+Asteroid Name: (2012 VK76)
+Estimated Diameter: 309.2344724613 meters
+Close Approach Date & Time: 2019-Oct-25 04:13
+Velocity: 49133.2524399335 km/h
+Distance to Earth: 27953099.646677396 km
+--------------------
+Asteroid id: 3765640
+Asteroid Name: (2016 XD2)
+Estimated Diameter: 93.43033406495 meters
+Close Approach Date & Time: 2019-Oct-25 08:28
+Velocity: 68153.5389411468 km/h
+Distance to Earth: 60878223.913059845 km
+--------------------
+Asteroid id: 3785790
+Asteroid Name: (2017 TG5)
+Estimated Diameter: 53.7635455797 meters
+Close Approach Date & Time: 2019-Oct-25 18:12
+Velocity: 42744.1232553293 km/h
+Distance to Earth: 5503601.696699924 km
+--------------------
+Asteroid id: 3801993
+Asteroid Name: (2018 FG1)
+Estimated Diameter: 19.5203635466 meters
+Close Approach Date & Time: 2019-Oct-25 11:39
+Velocity: 22945.9239968661 km/h
+Distance to Earth: 41337340.803967951 km
+--------------------
+Asteroid id: 3841178
+Asteroid Name: (2019 GP19)
+Estimated Diameter: 26.600383729999997 meters
+Close Approach Date & Time: 2019-Oct-25 09:41
+Velocity: 18915.8880656601 km/h
+Distance to Earth: 25111739.430448996 km
+--------------------
+Asteroid id: 3874054
+Asteroid Name: (2019 SW10)
+Estimated Diameter: 119.47798832575 meters
+Close Approach Date & Time: 2019-Oct-25 19:01
+Velocity: 50320.6988405065 km/h
+Distance to Earth: 16083023.278850196 km
+--------------------
+Asteroid id: 3878572
+Asteroid Name: (2019 TA2)
+Estimated Diameter: 57.291197728200004 meters
+Close Approach Date & Time: 2019-Oct-25 11:28
+Velocity: 23061.0871912608 km/h
+Distance to Earth: 8445479.668859363 km
+--------------------
+Asteroid id: 3342249
+Asteroid Name: (2006 SC)
+Estimated Diameter: 53.7635455797 meters
+Close Approach Date & Time: 2019-Oct-26 15:02
+Velocity: 33033.6147044362 km/h
+Distance to Earth: 66923838.798723497 km
+--------------------
+Asteroid id: 3589135
+Asteroid Name: (2011 WR41)
+Estimated Diameter: 56.29734342095 meters
+Close Approach Date & Time: 2019-Oct-26 12:21
+Velocity: 35083.7531296852 km/h
+Distance to Earth: 10520559.727115408 km
+--------------------
+Asteroid id: 3788090
+Asteroid Name: (2017 UO7)
+Estimated Diameter: 24.574681716249998 meters
+Close Approach Date & Time: 2019-Oct-26 22:18
+Velocity: 37462.8896980574 km/h
+Distance to Earth: 30922336.45129711 km
+--------------------
+Asteroid id: 2164211
+Asteroid Name: 164211 (2004 JA27)
+Estimated Diameter: 742.1435232752 meters
+Close Approach Date & Time: 2019-Oct-26 09:49
+Velocity: 53841.8655689893 km/h
+Distance to Earth: 34874109.925592064 km
+--------------------
+Asteroid id: 2378160
+Asteroid Name: 378160 (2006 WX1)
+Estimated Diameter: 708.74156249165 meters
+Close Approach Date & Time: 2019-Oct-26 16:26
+Velocity: 83862.3908675315 km/h
+Distance to Earth: 68503331.078122903 km
+--------------------
+Asteroid id: 3693428
+Asteroid Name: (2014 UR)
+Estimated Diameter: 26.945602679049998 meters
+Close Approach Date & Time: 2019-Oct-26 02:57
+Velocity: 19383.6123251734 km/h
+Distance to Earth: 19856248.942699342 km
+--------------------
+Asteroid id: 3692564
+Asteroid Name: (2014 TZ)
+Estimated Diameter: 170.01525911825001 meters
+Close Approach Date & Time: 2019-Oct-26 01:54
+Velocity: 10172.7698388715 km/h
+Distance to Earth: 49120388.687844104 km
+--------------------
+Asteroid id: 3873155
+Asteroid Name: (2019 ST9)
+Estimated Diameter: 432.4022067486 meters
+Close Approach Date & Time: 2019-Oct-26 23:03
+Velocity: 58691.9777219323 km/h
+Distance to Earth: 63343625.294094293 km
+--------------------
+Asteroid id: 3869322
+Asteroid Name: (2019 SF5)
+Estimated Diameter: 51.2256999927 meters
+Close Approach Date & Time: 2019-Oct-30 13:23
+Velocity: 21096.4392129578 km/h
+Distance to Earth: 13832446.713023372 km
+--------------------
+Asteroid id: 2136993
+Asteroid Name: 136993 (1998 ST49)
+Estimated Diameter: 1623.63311968425 meters
+Close Approach Date & Time: 2019-Oct-30 06:21
+Velocity: 53538.4618334852 km/h
+Distance to Earth: 31177660.82074517 km
+--------------------
+Asteroid id: 3760589
+Asteroid Name: (2016 TO18)
+Estimated Diameter: 40.78382003085 meters
+Close Approach Date & Time: 2019-Oct-30 13:22
+Velocity: 88619.5257930479 km/h
+Distance to Earth: 69045487.596805878 km
+--------------------
+Asteroid id: 3781990
+Asteroid Name: (2017 SE20)
+Estimated Diameter: 14.80771004295 meters
+Close Approach Date & Time: 2019-Oct-30 02:57
+Velocity: 30030.6753248675 km/h
+Distance to Earth: 11062077.896727306 km
+--------------------
+Asteroid id: 3776278
+Asteroid Name: (2017 MU8)
+Estimated Diameter: 282.1550980972 meters
+Close Approach Date & Time: 2019-Oct-30 11:42
+Velocity: 66905.9656935228 km/h
+Distance to Earth: 58534345.250084201 km
+--------------------
+Asteroid id: 3843369
+Asteroid Name: (2019 OS1)
+Estimated Diameter: 187.53740474774997 meters
+Close Approach Date & Time: 2019-Oct-30 16:37
+Velocity: 44544.4343324802 km/h
+Distance to Earth: 49467332.387840502 km
+--------------------
+Asteroid id: 3878610
+Asteroid Name: (2019 TQ4)
+Estimated Diameter: 328.91819755315 meters
+Close Approach Date & Time: 2019-Oct-30 23:25
+Velocity: 77913.1211435446 km/h
+Distance to Earth: 35029073.197998549 km
+--------------------
